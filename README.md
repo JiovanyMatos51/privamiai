@@ -42,7 +42,11 @@ Model parameters are **fully configurable** directly within the app, and the pro
 
 ## 📸 Screenshots
 
-> *(Add screenshots here)*
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| <img src="assets/screen1.png" width="280" alt="Screenshot 1"> | <img src="assets/screen2.png" width="280" alt="Screenshot 2"> |
+| Screenshot 3 | Screenshot 4 |
+| <img src="assets/screen3.png" width="280" alt="Screenshot 3"> | <img src="assets/screen4.png" width="280" alt="Screenshot 4"> |
 
 ---
 
